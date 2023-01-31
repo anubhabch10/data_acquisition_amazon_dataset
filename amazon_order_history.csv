@@ -1,0 +1,5 @@
+﻿order id,items,to,date,total,shipping,shipping_refund,gift,VAT,refund,payments
+404-9607175-0534741,"Seagate Expansion 1TB External HDD - 6.35 cm (2.5 Inch) USB 3.0 for Windows and Mac with 3 yr Data Recovery Services, Portable Hard Drive (STKM1000400); ",Anubhab Chaudhuri,2022-09-09,"Rs.4,099.00",Rs. 40.00,0,0,0,0,UNKNOWN; 
+404-7642633-6972349,Vrnda Women's Printed Cotton Night Suit Set/Sleepwear /Relaxed wear for Women/Night wear Dress for Girls and Women/Nightwear Set - Top & Pyjama Set(SkyBlue)(Size-XXL); ,Anubhab Chaudhuri,2022-05-14,Rs.597.00,Rs. 40.00,0,0,0,0,UNKNOWN; 
+404-8392830-0735545,"boAt Airdopes 141 True Wireless Earbuds with 42H Playtime, Beast Mode(Low Latency Upto 80ms) for Gaming, ENx Tech, ASAP Charge, IWP, IPX4 Water Resistance, Smooth Touch Controls(Bold Black); ",Anubhab Chaudhuri,2022-03-17,"Rs.1,399.00",Rs. 40.00,0,0,0,0,UNKNOWN; 
+"=SUBTOTAL(103, A2:A4) & "" items""",,,,"=SUBTOTAL(109,E2:E4)","=SUBTOTAL(109,F2:F4)","=SUBTOTAL(109,G2:G4)","=SUBTOTAL(109,H2:H4)","=SUBTOTAL(109,I2:I4)","=SUBTOTAL(109,J2:J4)",
